@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img src="discord.js"></a>
+<img src="discord.png"></a>
   <br>
   Discord.js v12 Template
   <br>
