@@ -1,0 +1,19 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "A Discord.js v12 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keurysk/Discord-v12-template.git"
+  },
+  "author": " </Keurysk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keurysk/Discord-v12-template/issues"
+  },
+  "homepage": "https://github.com/keurysk/Discord-v12-template#readme"
+}
