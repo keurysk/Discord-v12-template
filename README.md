@@ -47,5 +47,5 @@ Visit Discord's [Developer Portal](https://discordapp.com/developers/application
 
 ## Support
 
-* **Discord Server** • [Link](https://discord.gg/Szt6r7Qv6P)
+* **Discord Server** • [Link](https://discord.gg/RDxhRXr6mc)
 
