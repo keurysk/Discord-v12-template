@@ -12,9 +12,6 @@
   },
   "author": " </Keurysk>",
   "license": "ISC",
-    "dependencies": {
-    "discord.js": "^12.5.3",
-  },
   "bugs": {
     "url": "https://github.com/keurysk/Discord-v12-template/issues"
   },
