@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const { success, error } = require('../../config/default.json');
+const { success, error } = require('./../config/default.json');
 
 module.exports = {
 	name: '',  
