@@ -9,7 +9,7 @@ module.exports = {
 	guildOnly: true,  
 	args: false,  
 	usage: '',  
-	execute: async (message, cleint, args) => {
+	execute: async (message, client, args) => {
         
 
 	},
